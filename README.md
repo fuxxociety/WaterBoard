@@ -30,4 +30,4 @@ Likewise, on Shutdown:
  3. Ensure the "Flush" valve is left open while system is off.
 
 ## Diagram
-[ddiagram]: ./rodi-setup.png "RO/DI System Diagram"
+![RO/DI System Diagram](./rodi-setup.png)
